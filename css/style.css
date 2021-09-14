@@ -8,7 +8,15 @@
 .animated-item {
       animation: BottomTotop 4s linear infinite 0s;
 }
-
+.hauvuong {
+  text-align: center;
+  /*max-width: 900px;*/
+}
+.hauvuong img{
+  width: 100%;
+  border-radius: 10px;
+  /*margin: 0 auto;*/
+}
 ::-webkit-scrollbar {
   width: 16px;
 }
